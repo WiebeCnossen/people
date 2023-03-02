@@ -18,8 +18,8 @@
         "max": "2023-03-01T23:59:59Z"
       }
     },
-    "isPublic": {
-      "boolean": {}
+    "relatives": {
+      "hasMany": "Person"
     }
   }
 }
