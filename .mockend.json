@@ -6,7 +6,7 @@
     "email": {
       "regexp": "#[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}"
     },
-    "birthday": {
+    "birthdate": {
       "dateTime": {
         "min": "1930-01-01T00:00:00Z",
         "max": "2008-03-01T23:59:59Z"
@@ -29,7 +29,7 @@
     "email": {
       "regexp": "#[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}"
     },
-    "birthday": {
+    "birthdate": {
       "dateTime": {
         "min": "1948-01-01T00:00:00Z",
         "max": "2023-03-01T23:59:59Z"
