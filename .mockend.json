@@ -35,10 +35,8 @@
         "max": "2023-03-01T23:59:59Z"
       }
     },
-    "belongsTo": {
-      "parent": {
-        "belongsTo": "Parent"
-      }
+    "parent": {
+      "belongsTo": "Parent"
     }
   }
 }
