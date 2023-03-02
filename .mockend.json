@@ -1,7 +1,7 @@
 {
   "Parent": {
     "name": {
-      "string": {}
+      "regexp": "[A-Z][a-z]{5,10}"
     },
     "email": {
       "regexp": "#[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}"
@@ -24,7 +24,7 @@
   },
   "Child": {
     "name": {
-      "string": {}
+      "regexp": "[A-Z][a-z]{5,10}"
     },
     "email": {
       "regexp": "#[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}"
